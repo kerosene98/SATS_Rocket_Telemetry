@@ -6,19 +6,25 @@ This project is for the Finnish Space Research Society [SATS]. A telemetry platf
 
 The data to be recorded from sensors are :-
 
-	- [gps]GPS 
-	- [baro]Barometric data for altitude
-	- [IMU]Inertial Measurement Unit 
-	- [Pres]Pitot Pressure
-	- [Acc]Accelerometer
-	- [black]Black box
+	- GPS 
+	- Barometric data for altitude
+	- Inertial Measurement Unit 
+	- Pitot Pressure
+	- Accelerometer
+	- Black box
 
 
 # The Hardware
 
-The microcontroller is an [feather]adafruit Feather M0 LoRa 900MHz.
+The microcontroller is an adafruit [Feather] M0 LoRa 900MHz.
 
 
+[gps] 		: GPS
+[baro]	: Barometric data for altitude
+[IMU]		: Inertial Measurement Unit 
+[Pres]	: Pitot Pressure
+[Acc]		: Accelerometer
+[black]	: Black box
 
 
 
@@ -42,4 +48,4 @@ The microcontroller is an [feather]adafruit Feather M0 LoRa 900MHz.
 [pres]:	<https://en.wikipedia.org/wiki/Pitot_pressure>	
 [Acc]:      <https://en.wikipedia.org/wiki/Accelerometer>
 [black]:	<https://en.wikipedia.org/wiki/Black_box>
-[feather]:  <https://www.adafruit.com/product/3178>
+[Feather]:  <https://www.adafruit.com/product/3178>
