@@ -19,6 +19,14 @@ I am using two adafruit [Feather] M0 LoRa 900MHz microcontroller. One for the Re
 
 
 
+# The Apps
+
+- RFM9x Server code src/RFMx/RFM9x.ino
+- RFM9x Client code src/RFM9x_client/RFM9x_client.ino
+- main telemetry app in development. The plan is this code will initiate the peripheral code and compile the sent message packet.
+
+
+
 
 
 
